@@ -2,6 +2,6 @@
  - 📈 I have experience in SQL, R, Python, and Tableau
  - 👩🏽‍💻 I'm currently working on text analytics 
  - 🤗 I like to combine my marketing and data analyst skills
- - 📫 How to reach me: LinkedIn - @alliyah-thompson-24988b160/, Website - https://www.alliyahxthompson.com/, Email: alliyah.thompson82@gmail.com
+ - 📫 How to reach me: LinkedIn: @alliyah-thompson-24988b160/, Website: https://www.alliyahxthompson.com/, Email: alliyah.thompson82@gmail.com
  - 👩🏾 Pronouns: She / Her
  - ⚡ Fun fact: I like to bake and try new recipes in my free time.
